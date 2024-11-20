@@ -1,0 +1,9 @@
+[submodule "deps/sndfile"]
+	path = deps/sndfile
+	url = git@github.com:libsndfile/libsndfile.git
+[submodule "deps/eigen"]
+	path = deps/eigen
+	url = https://gitlab.com/libeigen/eigen.git
+[submodule "deps/matplotlib"]
+	path = deps/matplotlib
+	url = git@github.com:lava/matplotlib-cpp.git
